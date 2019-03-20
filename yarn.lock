@@ -4201,10 +4201,10 @@ nativescript-dev-typescript@~0.8.0:
     semver "5.5.0"
     typescript "~3.1.1"
 
-nativescript-dev-webpack@~0.20.0:
-  version "0.20.3"
-  resolved "https://registry.yarnpkg.com/nativescript-dev-webpack/-/nativescript-dev-webpack-0.20.3.tgz#62ab41cc5308be7ca4496db92a6fe6ae2af6fa0a"
-  integrity sha512-j3MsSWTyYteMBmljW4kFAGwvAcE+46QA3VH18kA8vXhmwGne/J8a5CDeI0a5jp+0ecDfm74oyRjLZur6j7AtKw==
+nativescript-dev-webpack@^0.21.0-next-2019-03-20-200603-01:
+  version "0.21.0-next-2019-03-20-200603-01"
+  resolved "https://registry.yarnpkg.com/nativescript-dev-webpack/-/nativescript-dev-webpack-0.21.0-next-2019-03-20-200603-01.tgz#f4a41878cd275f736973265237e86ef94ae2ac54"
+  integrity sha512-+pin6VI6iiWR82ANVxPwH8QEhckD/UAXBFyG2Sxm4fHOFmqXivFTI8bby8SvbItuGXUuzW0ZDEJuCaJ0xD378g==
   dependencies:
     "@angular-devkit/core" "~7.2.0"
     clean-webpack-plugin "~1.0.0"
